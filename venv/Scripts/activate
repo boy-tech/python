@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="F:\pythonlearn\fenlei\venv"
+VIRTUAL_ENV="F:\pythonlearn\air_quality_check\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

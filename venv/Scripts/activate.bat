@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=F:\pythonlearn\fenlei\venv"
+set "VIRTUAL_ENV=F:\pythonlearn\air_quality_check\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
